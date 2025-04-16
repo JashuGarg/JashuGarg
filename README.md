@@ -18,7 +18,7 @@
 
 -✨ Believer in growing by building, breaking, and building better
 
-- Always ready for collabration works
+-Always ready for collabration works
 
 
 <!--
