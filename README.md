@@ -1,16 +1,11 @@
 ## Hello World
 
-- 🚀 First-year BTech student with a passion for building real-world tech projects
+- 🚀 Second-year BTech student with a passion for building real-world tech projects
 
-- 💡 Love combining creativity and technology to build smart solutions (Web, IoT, and more!)
-
-- 🧠 Always exploring new domains—currently into IoT, Web3, and database systems
-
-- 🔧 Hands-on with Python, JavaScript, MySQL, and experimenting with PostgreSQL & ORMs
+- 🔧 Hands-on with Python, JavaScript, MySQL
 
 - 🌐 Built projects like an Automatic Car Parking System, Expense Tracker with rewards, and weather app "Breezify" , many more .
 
-- 🛠️ Comfortable working with ESP32, RFID modules, sensors, and LCDs for hardware-based systems
 
 - 🤝 Team player in hackathons, with a strong focus on practical problem-solving and collaboration
  
