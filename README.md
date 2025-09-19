@@ -4,7 +4,7 @@
 
 - 🔧 Hands-on with Python, JavaScript, MySQL
 
-- 🌐 Built projects like an Automatic Car Parking System, Expense Tracker with rewards, and weather app "Breezify" , many more .
+- 🌐 Built projects like an Automatic Car Parking System, Expense Tracker with rewards, and a community app "StreetFix", many more...
 
 
 - 🤝 Team player in hackathons, with a strong focus on practical problem-solving and collaboration
